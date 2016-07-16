@@ -1,0 +1,9 @@
+[user]
+	name = nickeb96
+	email = nickboyle5496@gmail.com
+[push]
+	default = simple
+[color]
+	ui = auto
+[core]
+	editor = vim
